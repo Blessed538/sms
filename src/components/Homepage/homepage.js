@@ -831,7 +831,7 @@ export class HomePage extends Component {
                 <div className="section-small text-md-left text-center">
                   <div className="uk-child-width-1-2@m uk-gird-large uk-flex-middle uk-grid">
                     <div className="uk-first-column">
-                      <img src="/theme-css/images/feature.png" alt="" />
+                      <img src="./assets/images/feature.png" alt="" />
                     </div>
                     <div>
                       <h2>
